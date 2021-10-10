@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "fullstackserverless4bcdf563": {}
+      },
+      "function": {
+        "cryptofunction": {
+          "deploymentBucketName": "amplify-fullstackserverless-dev-235839-deployment",
+          "s3Key": "amplify-builds/cryptofunction-6b7851637851695a7354-build.zip"
+        }
       }
     }
   }
